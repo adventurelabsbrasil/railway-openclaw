@@ -1,5 +1,10 @@
 # OpenClaw Railway Template (1‑click deploy)
 
+This repository is maintained by **Adventure Labs** as an isolated, ready-to-use Railway template project.
+
+- **Repo (this fork/mirror)**: `adventurelabsbrasil/railway-openclaw`
+- **Upstream project**: `vignesh07/clawdbot-railway-template` (original author/maintainer)
+
 This repo packages **OpenClaw** for Railway with a small **/setup** web wizard so users can deploy and onboard **without running any commands**.
 
 ## What you get
@@ -50,7 +55,8 @@ Then:
 
 ## Support / community
 
-- GitHub Issues: https://github.com/vignesh07/clawdbot-railway-template/issues
+- GitHub Issues (this repo): https://github.com/adventurelabsbrasil/railway-openclaw/issues
+- GitHub Issues (upstream): https://github.com/vignesh07/clawdbot-railway-template/issues
 - Discord: https://discord.com/invite/clawd
 
 If you’re filing a bug, please include the output of:
